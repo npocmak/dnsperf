@@ -27,8 +27,8 @@ You need to install bc and dig. For Ubuntu:
 # Utilization
 
 ``` 
- $ git clone --depth=1 https://github.com/cleanbrowsing/dnsperftest/
- $ cd dnsperftest
+ $ git clone --depth=1 https://github.com/npocmak/dnsperf/
+ $ cd dnsperf
  $ bash ./dnstest.sh 
                test1   test2   test3   test4   test5   test6   test7   test8   test9   test10  Average 
 cloudflare     1 ms    1 ms    1 ms    2 ms    1 ms    1 ms    1 ms    1 ms    1 ms    1 ms      1.10
