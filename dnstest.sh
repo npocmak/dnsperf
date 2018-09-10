@@ -15,15 +15,17 @@ PROVIDERS="
 80.80.80.80#freenom 
 208.67.222.123#opendns 
 199.85.126.20#norton 
-185.228.168.168#cleanbrowsing 
-77.88.8.7#yandex 
-176.103.130.132#adguard 
-156.154.70.3#neustar 
-8.26.56.26#comodo
+77.88.8.7#yandex
+170.56.58.53#hp_webservices
+195.186.1.111#swisscom
+195.182.110.132#bt
+195.27.1.1#vodafone
+212.3.140.66#nettera
+66.28.0.45#cogent
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com amazon.com facebook.com www.youtube.com www.reddit.com  wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.google.com olx.bg abv.bg facebook.com www.youtube.com mail.bg wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
 
 
 totaldomains=0
