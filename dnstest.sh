@@ -19,13 +19,11 @@ PROVIDERS="
 170.56.58.53#hp_webservices
 195.186.1.111#swisscom
 195.182.110.132#bt
-195.27.1.1#vodafone
-212.3.140.66#nettera
 66.28.0.45#cogent
 "
 
 # Domains to test. Duplicated domains are ok
-DOMAINS2TEST="www.google.com olx.bg abv.bg facebook.com www.youtube.com mail.bg wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
+DOMAINS2TEST="www.google.com www.olx.bg www.abv.bg facebook.com www.youtube.com www.mail.bg wikipedia.org twitter.com gmail.com www.google.com whatsapp.com"
 
 
 totaldomains=0
