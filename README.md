@@ -10,11 +10,11 @@ Includes by default:
  * Freenom 80.80.80.80
  * OpenDNS
  * Norton
- * CleanBrowsing
  * Yandex
- * AdGuard
- * Neustar
- * Comodo
+ * HP Webservices
+ * Swisscom
+ * BT
+ * Cogent
 
 # Required 
 
